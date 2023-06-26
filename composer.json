@@ -1,5 +1,5 @@
 {
-    "name": "cu-boulder/shortcode_fork,
+    "name": "cu-boulder/shortcode_fork",
     "description": "CU fork of the Drupal shortcode module",
     "license": "GPL-2.0-or-later",
     "type": "drupal-custom-module"
